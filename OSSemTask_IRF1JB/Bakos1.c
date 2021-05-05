@@ -52,7 +52,7 @@ int main()
     int b=tomb[2];
     if(b < a)
     {
-    printf("%d < %d",b,a);
+
 
     for(i=0;i<3;i++)
     {
@@ -64,7 +64,6 @@ int main()
     else
     {
 
-    printf("%d > %d",b,a);
     for(i=0;i<3;i++)
     {
     message.a[i]=tm[i];
